@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.fis.demo"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "lucky",
+    "packageName": "com.fis.demo",
+    "packageFolder": "com/fis/demo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTIwNmY0ZjJjZGVlNzViYWU3OWRmOTA3ODdiMjllMmZhOGQ3NzIyMDc3NjBmYzE0MzkxY2RhNTBkZTYyNjM0MzNiZTVkMzcwNDc4ODMxNTVjNjZhYWE1YTdiNGI1OTBlMWI5YzNjZGExMDU0OTk4MzhkOGE3ZGE4NTIwMmNkZWI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1706524760479,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}

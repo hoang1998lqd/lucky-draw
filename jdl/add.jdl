@@ -1,0 +1,9 @@
+entity Employee {
+    @id id Long
+    name String
+    department String
+    childDepartment String
+    email String
+    status Integer
+    checkIn Instant
+}
